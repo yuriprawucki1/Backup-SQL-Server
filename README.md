@@ -1,1 +1,2 @@
-# Backup-SQL-Server
+# Backup SQL Server Script
+#
